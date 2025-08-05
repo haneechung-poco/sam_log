@@ -1,6 +1,6 @@
 streamlit
 pandas
-OpenAI
+openai
 plotly
 matplotlib
 wordcloud
